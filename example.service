@@ -1,0 +1,14 @@
+[Unit]
+Description=Due Date Bot
+After=network.target
+
+[Service]
+Type=simple
+User=foo
+Group=foo
+WorkingDirectory=/opt/ddbot
+ExecStart=/opt/ddbot/venv/bin/ddbot -l en --token $bot-token 2023-04-12
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
