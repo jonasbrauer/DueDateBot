@@ -2,7 +2,7 @@
 
 Keep track of your due date via a Telegram bot.
 
-[screenshot](https://user-images.githubusercontent.com/10963153/211256339-bc9168fb-00c3-480d-9cb8-d0f4396ba4b7.png)
+![screenshot](https://user-images.githubusercontent.com/10963153/211256339-bc9168fb-00c3-480d-9cb8-d0f4396ba4b7.png)
 
 ### Usage
 
